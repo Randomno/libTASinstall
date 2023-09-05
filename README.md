@@ -1,1 +1,1 @@
-"# libTASinstall" 
+Shell script to install libTAS
